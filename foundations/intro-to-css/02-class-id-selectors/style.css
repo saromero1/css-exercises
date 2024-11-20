@@ -1,0 +1,19 @@
+.myClass1{
+    background-color: #ebaeb7;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#myID1{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.myClass1.subSection1{
+    font-size: 24px;
+}
+
+#myID2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
